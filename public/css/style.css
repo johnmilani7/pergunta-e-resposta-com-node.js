@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+.botao{
+    margin-top: 15px;
+}
+
+label{
+    margin-top: 15px;
+}
+
+body{
+    background-color: #eceff1;
+}
+
+#formulario-pergunta{
+    margin-top: 5vh;
+}
+
+.cartao{
+    margin-top: 20px;
+}
+
+.cartao2{
+    margin-bottom: 20px;
+}
